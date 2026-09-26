@@ -1,0 +1,13 @@
+Example Output
+Mode: Local extractive fallback (no live LLM used)
+
+Headline
+Greenfield launched two electric buses on Monday for a three-month public-transport…
+
+Short News Summary
+Greenfield launched two electric buses on Monday for a three-month public-transport trial. The city will publish ridership, reliability, and charging data after the trial before considering additional electric buses.
+
+Key Information
+- Greenfield launched two electric buses on Monday for a three-month public-transport trial.
+- The buses will serve Route 4 daily from 6 a.m. to 10 p.m. and use chargers installed at the central depot.
+- The city will publish ridership, reliability, and charging data after the trial before considering additional electric buses.
