@@ -1,0 +1,30 @@
+Example Output
+Mode: Local extractive fallback (no live LLM used)
+
+Research Topic
+Coastal University tested twenty low-cost water-quality sensors in Baytown for twelve…
+
+Summary
+Coastal University tested twenty low-cost water-quality sensors in Baytown for twelve weeks. Researchers reported that eighteen sensors transmitted daily readings for at least ten weeks, while two units stopped after battery failures.
+
+Key Findings
+- Coastal University tested twenty low-cost water-quality sensors in Baytown for twelve weeks.
+- Researchers reported that eighteen sensors transmitted daily readings for at least ten weeks, while two units stopped after battery failures.
+- The trial compared sensor readings with weekly laboratory samples and found similar trends, but it did not evaluate performance during severe storms.
+- The research team plans a larger seasonal study before recommending permanent deployment.
+
+Important Facts
+- Coastal University tested twenty low-cost water-quality sensors in Baytown for twelve weeks.
+- Researchers reported that eighteen sensors transmitted daily readings for at least ten weeks, while two units stopped after battery failures.
+- The trial compared sensor readings with weekly laboratory samples and found similar trends, but it did not evaluate performance during severe storms.
+- The research team plans a larger seasonal study before recommending permanent deployment.
+
+Important Entities
+- Coastal University
+- Baytown
+- Researchers
+
+Questions for Further Research
+- What additional evidence would confirm or challenge the reported findings?
+- What methods, definitions, and data-quality checks were used?
+- What limitations or missing perspectives should be examined next?
